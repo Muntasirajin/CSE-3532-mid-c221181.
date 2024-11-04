@@ -1,0 +1,92 @@
+
+
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin: 0px;
+}
+
+.hero-section{
+    background-color: rgb(63, 63, 202);
+    padding: 2.25rem 5rem;
+}
+.first-nav{
+    display: flex;
+    align-items: center;
+}
+.ul-1{
+    list-style: none;
+    display: flex;
+    column-gap: 1.25rem;
+}
+
+.ul-2{
+    list-style: none;
+    display: flex;
+    column-gap: 1.25rem;
+}
+.sign-up-btn{
+    background: transparent;
+    border:1px solid white;
+    padding: 0.6rem;
+    border-radius: 1.25rem;
+}
+.second-nav{
+    display: flex;
+    align-items: center;
+    column-gap: 1.25rem;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner{
+    margin-top: 3.75rem;
+    margin-bottom: 3.75rem;
+    text-align: center;
+}
+.banner h1{
+    font-size: 3.5rem;
+}
+.banner p{
+    font-size: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 2.5rem;
+}
+.get-started-btn{
+    background-color: rgb(53, 208, 156);
+    color: white;
+    border: none;
+    padding: 1.25rem 3rem;
+    font-weight: bold;
+    border-radius: 3rem;
+}
+.images{
+    display: flex;
+    justify-content:center;
+    column-gap: 5rem;
+}
+
+.images .img-1 img{
+    max-width: 16rem;
+    height: 8rem;
+    border-radius: 1.25rem;
+}
+.images .img-2 img{
+    max-width: 16rem;
+    height: 8rem;
+    border-radius: 1.25rem;
+}
+.img-1{
+    display: flex;
+    align-items: center;
+    column-gap: 1.25rem;
+}
+.img-2{
+    display: flex;
+    align-items: center;
+    column-gap: 1.25rem;
+}
+
